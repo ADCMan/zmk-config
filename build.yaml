@@ -1,9 +1,5 @@
 include:
   - board: xiao_ble
-    shield: totem_left rgbled_adapter
-    snippet: studio-rpc-usb-uart
+    shield: totem_left
   - board: xiao_ble
-    shield: totem_right rgbled_adapter
-  - board: xiao_ble
-    shield: settings_reset
-# there is no settingsreset (needed) for the XIAO
+    shield: totem_right
